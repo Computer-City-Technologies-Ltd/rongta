@@ -186,7 +186,7 @@
       <div class="grid grid-cols-2 px-8 py-4">
         <div class="col-span-1">
           <p class="text-sm text-gray-400">
-            Copyright © 2022 Rongta Bangladesh
+            Copyright © 2026 Rongta Bangladesh
           </p>
         </div>
 
